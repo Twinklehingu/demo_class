@@ -1,4 +1,4 @@
 # Demo_project
 
-Name: Twinkle 
+Name: Twinkle Hingu
 <br> This is my first Git Repository 
