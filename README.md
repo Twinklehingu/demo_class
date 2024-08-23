@@ -1,4 +1,4 @@
-# demo_class
+# Demo_project
 
 Name: Twinkle 
-<br> This is my fiest Git Repository 
+<br> This is my first Git Repository 
